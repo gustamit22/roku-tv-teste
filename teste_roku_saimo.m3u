@@ -4,4 +4,5 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist1080
 #EXTINF:-1 tvg-name="CNN Brasil Money" group-title="Noticias",CNN Brasil Money
 https://amg01391-amg01391c57-amgplt0026.playout.now3.amagi.tv/playlist/amg01391-amg01391c57-amgplt0026/playlist.m3u8
 #EXTINF:-1 group-title="Filmes" tvg-name="Megapix",Megapix
-http://vaiagora.vip:80/live/5q8VUj/5BeUd8/72167.m3u8
+#EXTINF:-1 group-title="Notícias" tvg-name="GloboNews",GloboNews
+https://aws.s13-s1001604.lat/stream/f40b5972e5f78e715aaf2034cdaac946/globonews.m3u8
